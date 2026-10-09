@@ -1,6 +1,6 @@
 ---
 
-Title: "Introduction to Python"
+Title: "Python 101"
 Date: 2026-10-04
 Author: "Srihan Manukonda"
 
